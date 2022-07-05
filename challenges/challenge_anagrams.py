@@ -14,5 +14,5 @@ def is_anagram(first_string, second_string):
 
     else:
         return False
-    
+
 # print(is_anagram(cat, act))
